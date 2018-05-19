@@ -1,7 +1,7 @@
 # DS2018-frontend-demo
 Demo frontend for course project of Data Structure 2018 @ ACM Class 2017
 
-[在线 Demo](123.206.182.24:2018)
+[在线 Demo](http://123.206.182.24:2018)
 
 ## 前端示例
 
